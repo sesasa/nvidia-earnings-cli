@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1080pt" height="676.8pt" viewBox="0 0 1080 676.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-08T23:19:45.876783</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 676.8 
+L 1080 676.8 
+L 1080 0 
+L 0 0 
+z
+" style="fill: #f5f7fa"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 70.2 460.224 
+L 729 460.224 
+L 729 182.736 
+L 70.2 182.736 
+z
+" style="fill: #f5f7fa"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53677e" x="129.415448" y="476.821656" transform="rotate(-0 129.415448 476.821656)">Revenue</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(201.952746 477.823414)">Cost of</text>
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(199.00509 489.825367)">revenue</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(295.450201 477.822633)">Gross</text>
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(296.250201 489.825367)">profit</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(374.601562 477.823414)">Operating</text>
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(373.941406 489.825367)">expenses¹</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(464.66308 477.823414)">Operating</text>
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(471.348236 489.826148)">income</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(560.037879 477.823414)">Other &amp;</text>
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(553.83866 489.826148)">tax effect²</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(661.007209 477.822633)">Net</text>
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #53677e" transform="translate(651.471271 489.825367)">income</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <path d="M 70.2 454.418812 
+L 729 454.418812 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="61.2" y="458.597952" transform="rotate(-0 61.2 458.597952)">$0B</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <path d="M 70.2 406.153354 
+L 729 406.153354 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="61.2" y="410.332494" transform="rotate(-0 61.2 410.332494)">$20B</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <path d="M 70.2 357.887896 
+L 729 357.887896 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="61.2" y="362.067036" transform="rotate(-0 61.2 362.067036)">$40B</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14">
+      <path d="M 70.2 309.622438 
+L 729 309.622438 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="61.2" y="313.801579" transform="rotate(-0 61.2 313.801579)">$60B</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_16">
+      <path d="M 70.2 261.35698 
+L 729 261.35698 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="61.2" y="265.536121" transform="rotate(-0 61.2 265.536121)">$80B</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_18">
+      <path d="M 70.2 213.091522 
+L 729 213.091522 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_13">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="61.2" y="217.270663" transform="rotate(-0 61.2 217.270663)">$100B</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_20">
+    <path d="M 158.685441 222.21128 
+L 190.206972 222.21128 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #a6b4c3"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 248.746958 280.320478 
+L 280.268489 280.320478 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #a6b4c3"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 338.808476 280.320478 
+L 370.330007 280.320478 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #a6b4c3"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 428.869993 300.611277 
+L 460.391524 300.611277 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #a6b4c3"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 518.931511 300.611277 
+L 550.453042 300.611277 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #a6b4c3"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 608.993028 310.375379 
+L 640.514559 310.375379 
+" clip-path="url(#pcbce18de1d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #a6b4c3"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.145455 454.418812 
+L 158.685441 454.418812 
+L 158.685441 222.21128 
+L 100.145455 222.21128 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #3879b9"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="129.415448" y="215.941677" transform="rotate(-0 129.415448 215.941677)">96.221</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 190.206972 280.320478 
+L 248.746958 280.320478 
+L 248.746958 222.21128 
+L 190.206972 222.21128 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #c76049"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="219.476965" y="215.941677" transform="rotate(-0 219.476965 215.941677)">-24.079</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 280.268489 454.418812 
+L 338.808476 454.418812 
+L 338.808476 280.320478 
+L 280.268489 280.320478 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #3879b9"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="309.538483" y="274.050875" transform="rotate(-0 309.538483 274.050875)">72.142</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 370.330007 300.611277 
+L 428.869993 300.611277 
+L 428.869993 280.320478 
+L 370.330007 280.320478 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #c76049"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="399.6" y="274.050875" transform="rotate(-0 399.6 274.050875)">-8.408</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 460.391524 454.418812 
+L 518.931511 454.418812 
+L 518.931511 300.611277 
+L 460.391524 300.611277 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #3879b9"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="489.661517" y="294.341674" transform="rotate(-0 489.661517 294.341674)">63.734</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 550.453042 310.375379 
+L 608.993028 310.375379 
+L 608.993028 300.611277 
+L 550.453042 300.611277 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #c76049"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="579.723035" y="294.341674" transform="rotate(-0 579.723035 294.341674)">-4.046</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 640.514559 454.418812 
+L 699.054545 454.418812 
+L 699.054545 310.375379 
+L 640.514559 310.375379 
+z
+" clip-path="url(#pcbce18de1d)" style="fill: #187d71"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b42" x="669.784552" y="304.105776" transform="rotate(-0 669.784552 304.105776)">59.688</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="70.2" y="163.736" transform="rotate(-0 70.2 163.736)">Revenue-to-profit waterfall</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 837 433.152 
+L 1009.8 433.152 
+L 1009.8 209.808 
+L 837 209.808 
+z
+" style="fill: #f5f7fa"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_8">
+     <g id="line2d_26">
+      <path d="M 837 433.152 
+L 837 209.808 
+" clip-path="url(#p75cd82647d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_27"/>
+     <g id="text_22">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53677e" x="837" y="448.509422" transform="rotate(-0 837 448.509422)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_28">
+      <path d="M 923.4 433.152 
+L 923.4 209.808 
+" clip-path="url(#p75cd82647d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_29"/>
+     <g id="text_23">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53677e" x="923.4" y="448.509422" transform="rotate(-0 923.4 448.509422)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_30">
+      <path d="M 1009.8 433.152 
+L 1009.8 209.808 
+" clip-path="url(#p75cd82647d)" style="fill: none; stroke: #dce3eb; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_31"/>
+     <g id="text_24">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53677e" x="1009.8" y="448.509422" transform="rotate(-0 1009.8 448.509422)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_32"/>
+     <g id="text_25">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="830" y="242.103155" transform="rotate(-0 830 242.103155)">Gross</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_33"/>
+     <g id="text_26">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="830" y="325.659141" transform="rotate(-0 830 325.659141)">Operating</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_34"/>
+     <g id="text_27">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53677e" x="830" y="409.214266" transform="rotate(-0 830 409.214266)">Net</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_11">
+    <path d="M 837 219.96 
+L 966.557348 219.96 
+L 966.557348 255.888889 
+L 837 255.888889 
+z
+" clip-path="url(#p75cd82647d)" style="fill: #3879b9"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 837 303.515556 
+L 951.457709 303.515556 
+L 951.457709 339.444444 
+L 837 339.444444 
+z
+" clip-path="url(#p75cd82647d)" style="fill: #3879b9"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 837 387.071111 
+L 944.191636 387.071111 
+L 944.191636 423 
+L 837 423 
+z
+" clip-path="url(#p75cd82647d)" style="fill: #187d71"/>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="970.013348" y="241.041632" transform="rotate(-0 970.013348 241.041632)">75.0%</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="954.913709" y="324.597188" transform="rotate(-0 954.913709 324.597188)">66.2%</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="947.647636" y="408.152743" transform="rotate(-0 947.647636 408.152743)">62.0%</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="837" y="190.808" transform="rotate(-0 837 190.808)">Profit margins</text>
+   </g>
+  </g>
+  <g id="text_32">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53677e" x="59.4" y="36.5472" transform="rotate(-0 59.4 36.5472)">NVIDIA  /  INCOME STATEMENT</text>
+  </g>
+  <g id="text_33">
+   <text style="font-weight: 700; font-size: 29px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="59.4" y="71.7408" transform="rotate(-0 59.4 71.7408)">How revenue becomes profit</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="59.4" y="97.4592" transform="rotate(-0 59.4 97.4592)">Quarter: 2026-04-27 to 2026-07-26 (91 days)  |  GAAP  |  USD billions unless stated</text>
+  </g>
+  <g id="text_35">
+   <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #187d71" x="59.4" y="130.6224" transform="rotate(-0 59.4 130.6224)">Net income: $59.688B  •  $62.03 of profit per $100 of revenue  •  Diluted EPS $2.46</text>
+  </g>
+  <g id="text_36">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b42" x="59.4" y="538.056" transform="rotate(-0 59.4 538.056)">Reading the chart</text>
+  </g>
+  <g id="text_37">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53677e" x="59.4" y="556.3296" transform="rotate(-0 59.4 556.3296)">Blue and green bars are reported totals. Floating bars show the changes between totals.</text>
+  </g>
+  <g id="text_38">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53677e" x="59.4" y="573.2496" transform="rotate(-0 59.4 573.2496)">¹ Operating expenses = gross profit − operating income = $8.408B (derived).</text>
+  </g>
+  <g id="text_39">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53677e" x="59.4" y="590.1696" transform="rotate(-0 59.4 590.1696)">² Other &amp; tax effect = net income − operating income = $-4.046B; combines non-operating items and taxes (derived).</text>
+  </g>
+  <g id="text_40">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53677e" x="59.4" y="607.0896" transform="rotate(-0 59.4 607.0896)">Margins = profit subtotal ÷ revenue. Selected statement lines; this is not a cash flow chart.</text>
+  </g>
+  <g id="text_41">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53677e" x="59.4" y="624.0096" transform="rotate(-0 59.4 624.0096)">Source: NVIDIA 10-Q, filed 2026-08-26. Database refreshed: 2026-09-08T21:06:54 UTC.</text>
+  </g>
+  <g id="text_42">
+   <a xlink:href="https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm" target="_blank">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #3879b9" x="59.4" y="653.7888" transform="rotate(-0 59.4 653.7888)">https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm</text>
+   </a>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcbce18de1d">
+   <rect x="70.2" y="182.736" width="658.8" height="277.488"/>
+  </clipPath>
+  <clipPath id="p75cd82647d">
+   <rect x="837" y="209.808" width="172.8" height="223.344"/>
+  </clipPath>
+ </defs>
+</svg>
