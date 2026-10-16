@@ -10,7 +10,7 @@
 - An optional LLM mode (OpenAI Responses API) gets selected metrics and document excerpts, is instructed to cite evidence, and never executes model-generated SQL.
 - The core uses only the Python standard library, has throttled and retrying HTTP, and comes with a unit test suite.
 
-**Built with** an AI coding agent (OpenAI Codex). Stack: Python 3.10+, SQLite, SEC XBRL APIs, matplotlib charts and the OpenAI API.
+**Built with OpenAI Codex**, with Claude Code consulted for review. Stack: Python 3.10+, SQLite, SEC XBRL APIs, matplotlib charts and the OpenAI API.
 
 ---
 
